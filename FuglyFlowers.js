@@ -3,6 +3,7 @@
 Fugly Flowers :)
 
 Public Domain 2013 by Matthias Dörfelt
+Updated to ES6 2019
 
 www.mokafolio.de
 www.paperjs.org
